@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "slug": "tier",
+    "name": "Tier",
+    "color": "#2CD5C6",
+    "icon": "escooter-tier",
+    "layers": {
+      "units": true,
+      "trips": true
+    }
+  },
+  {
+    "id": 2,
+    "slug": "cityscoot",
+    "name": "Cityscoot",
+    "color": "#156FFB",
+    "icon": "moped-cityscoot",
+    "layers": {
+      "units": true,
+      "trips": true
+    }
+  },
+  {
+    "id": 3,
+    "slug": "yego",
+    "name": "Yego",
+    "color": "#CDDC39",
+    "icon": "moped-yego",
+    "layers": {
+      "units": true,
+      "trips": "unavailable"
+    }
+  }
+]
